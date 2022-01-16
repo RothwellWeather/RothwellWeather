@@ -12,3 +12,4 @@
   <h6>--------------------------------------------------------------------------------</h6>
   <h4>OTHER WEATHER</h4>
   <h5>TORNADO WATCH IN EFFECT IN FLORIDA UNTIL 3PM EST FOR THE FOLLOWNG...BROWARD, MIAMI-DADE, PALM BEACH</h5>
+  <h5>Kentucky to have rain and snow Sunday through Monday</h5>
