@@ -1,7 +1,7 @@
 <!DOCKTYPE html>
 <html>
   <head>
-    <title> LATEST KY WEATHER WARNINGS AND WATCHES</title>
+    
     </head>
 <body>
   
